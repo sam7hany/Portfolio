@@ -89,7 +89,7 @@ body{
   font-family: var(--body-font);
   font-size: var(--normal-font-size);
   color: var(--second-color);
-  background-image: url(../../img/bg.gif);
+  background-image: url(bg/bg.gif);
   background-color: antiquewhite;
 }
 
@@ -410,16 +410,19 @@ canvas.particles-js-canvas-el{
   z-index: var(--z-back);
 }
 .skills__docker{
-  width: 70%;
+  width: 60%;
 }
 .skills__linux{
-  width: 85%;
+  width: 20%;
 }
 .skills__py{
-  width: 65%;
+  width: 40%;
+}
+.skills__ara{
+  width: 99%;
 }
 .skills__harden{
-  width: 85%;
+  width: 80%;
 }
 .skills__img{
   border-radius: .5rem;
