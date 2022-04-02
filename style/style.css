@@ -90,7 +90,7 @@ body{
   font-size: var(--normal-font-size);
   color: var(--second-color);
   background-image: url(bg/bg.gif);
-  background-color: antiquewhite;
+    background-color: rgb(146 161 176 / 15%);
 }
 
 h1,h2,p{
@@ -162,7 +162,7 @@ canvas.particles-js-canvas-el{
   top: 0;
   left: 0;
   z-index: var(--z-fixed);
-  background-color: #fff;
+  background-color: #0e2431;
   box-shadow: 0 1px 4px rgba(146,161,176,.15);
 }
 
@@ -206,7 +206,7 @@ canvas.particles-js-canvas-el{
   background-color: var(--first-color);
 }
 .nav__logo{
-  color: var(--second-color);
+  color: #fff;
 }
 .nav__toggle{
   color: var(--second-color);
